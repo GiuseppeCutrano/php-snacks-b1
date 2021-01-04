@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+
+ul{
+    list-style-type:none
+}
+
+.square {
+    float: left;
+    width:50%;
+    height: 500px;
+}
+
+.teachers{
+    background-color: rgb(226, 17, 17);
+}
+
+.pm {
+    background-color: rgb(169, 144, 238);
+}
